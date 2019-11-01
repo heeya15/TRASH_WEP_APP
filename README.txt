@@ -1,35 +1,5 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+php 를 이용한 웹 페이지 이며 , 사용자가 쓰레기 사진을 올려서 쓰레기가 버려진 위치를 확인하며 , 관리자는 회원들이 올린 데이터들을
+보고 파악하여 , 해당위치를 쓰레기 수거하는 사람에게 알려줘서 군대군대 쓰레기가 버려진 곳을 찾아가 치움으로서 , 환경개선을
+할수있는 점을 생각하여 만들게 되었습니다.
